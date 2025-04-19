@@ -1,0 +1,23 @@
+@charset "UTC-8";
+
+body{
+    background-color:coral;
+    font-family: 'Courier New', Courier, monospace;
+    
+    }
+    h1{color:blue;
+        background-color: rgb(142, 227, 142);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    h2 {color: greenyellow;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: blueviolet;
+    }
+    
+    h3{color:green;
+        font-family: Arial, Helvetica, sans-serif;}
+        
+        a{ color: darkred; text-align: left;}
+    
